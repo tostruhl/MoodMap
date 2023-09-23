@@ -1,5 +1,7 @@
+import moodGuesser
+
 def helloWorld():
-    print("Hello World!")
+    moodGuesser.basicGuesser(5)
 
 if __name__ == "__main__":
     helloWorld()

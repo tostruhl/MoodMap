@@ -1,1 +1,2 @@
 # MoodMap
+Goal of this project is to predict mood each morning for the next seven days. Mood will be represented by a number from 1-5, 1 being terrible and 5 being amazing. Each day, you enter your mood and that data will be tracked to constantly update your prediction. 
